@@ -2,7 +2,7 @@
 
 :root {
   --primary-color: rgb(17, 86, 102);
-  --primary-color-darker: rgb(9, 48, 56)
+  --primary-color-darker: rgb(9, 48, 56);
 }
 
 * {
@@ -12,19 +12,21 @@
 }
 
 body {
-  height: 100vh;
+  height: 67vh;
   width: 100vw;
   background-color: var(--primary-color);
   font-family: 'Open sans', sans-serif;
   font-size: 1.3em;
   line-height: 1.5em;
+  display: flex;
 }
 
 .container {
   background-color: #fff;
-  max-width: 640px;
+  max-width: 450px;
   margin: 50px auto;
   padding: 20px;
+  text-align: center;
   border-radius: 10px;
 }
 
@@ -80,4 +82,13 @@ form button:hover {
 
 .btn:hover {
   background-color: #9e9e9e;
+}
+
+.btn-eq {
+  background:  rgb(54, 157, 180);
+  font-weight: bold;
+}
+
+h1 {
+  padding-bottom: 10px;
 }
