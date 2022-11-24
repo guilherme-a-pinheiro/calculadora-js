@@ -7,11 +7,11 @@ Este projeto é uma aplicação construída com principalmente JavaScript, utili
 A aplicação consiste em uma calculadora, utilizando suas funcionalidades simples e com inspiração na calculadora do Google. Em especial utilizando a função Eval do JavaScript e a manipulação da DOM.
 
 ## Layout web
-![Web 1](assets\img\main.PNG)
+![Web 1](/assets/img/main.PNG)
 
-![Web 2](assets\img\conta.PNG)
+![Web 2](/assets/img/conta.PNG)
 
-![Web 3](assets\img\resultado.PNG)
+![Web 3](/assets/img/resultado.PNG)
 
 # Tecnologias utilizadas
 ## Back end
